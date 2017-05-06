@@ -1,0 +1,8 @@
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\bin\Debug\ConsoleMySin.exe.config
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\obj\Debug\ConsoleMySin.csprojResolveAssemblyReference.cache
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\bin\Debug\ConsoleMySin.exe
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\bin\Debug\ConsoleMySin.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\bin\Debug\MyLib.dll
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\bin\Debug\MyLib.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\obj\Debug\ConsoleMySin.exe
+C:\Users\Дмитро\Desktop\lab1\Lab1\ConsoleMySin\obj\Debug\ConsoleMySin.pdb

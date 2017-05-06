@@ -1,0 +1,13 @@
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\WindowsMySin.exe.config
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.Properties.Resources.resources
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.csproj.GenerateResource.Cache
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.csprojResolveAssemblyReference.cache
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.Form1.resources
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\WindowsMySin.exe
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\WindowsMySin.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\MyLib.dll
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\MyLib.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.exe
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\obj\Debug\WindowsMySin.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\MyLab.dll
+C:\Users\Дмитро\Desktop\lab1\Lab1\WindowsMySin\bin\Debug\MyLab.pdb

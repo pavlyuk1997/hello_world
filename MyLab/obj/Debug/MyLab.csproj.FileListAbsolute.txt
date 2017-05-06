@@ -1,0 +1,5 @@
+C:\Users\Дмитро\Desktop\lab1\Lab1\MyLab\bin\Debug\MyLab.dll
+C:\Users\Дмитро\Desktop\lab1\Lab1\MyLab\bin\Debug\MyLab.pdb
+C:\Users\Дмитро\Desktop\lab1\Lab1\MyLab\obj\Debug\MyLab.csprojResolveAssemblyReference.cache
+C:\Users\Дмитро\Desktop\lab1\Lab1\MyLab\obj\Debug\MyLab.dll
+C:\Users\Дмитро\Desktop\lab1\Lab1\MyLab\obj\Debug\MyLab.pdb
